@@ -433,6 +433,7 @@ select {
         flex-direction: column;
         transform: translateX(100%);
         transition: transform 500ms ease-in-out;
+        background-color: #1c1d25
     }
     .mobile-nav-toggle {
         display: block;
